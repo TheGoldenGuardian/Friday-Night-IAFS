@@ -1,3 +1,7 @@
 Tutorial:gf:0xFF9271FD
+Driftveil-City:dad:0xFF9271FD
+Sand-Canyon:pico:0xFF941653
 Gartic-Pummel:pico:0xFF941653
 Spookeez-(Jam-Version):spooky-jam:0xFF223344
+Ugh-Minus:tankman:0xFF323232
+Guns-Minus:tankman:0xFF323232
