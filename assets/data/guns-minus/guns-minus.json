@@ -1,6 +1,6 @@
 {
      "song" : {
-         "player1" : "bf"
+         "player1" : "bf-minus"
         ,"notes" : [
              {
                  "sectionNotes" : [
@@ -7078,6 +7078,6 @@
         ,"stage" : "tank"
         ,"needsVoices" : false
         ,"bpm" : 184
-        ,"gf" : "gf"
+		,"player3": "gf-tankmechs"
     }
 }

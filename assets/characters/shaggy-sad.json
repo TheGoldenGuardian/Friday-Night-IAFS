@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				148,
+				-36
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "shaggy_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				97,
+				-169
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "shaggy_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				24
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 20,
+			"name": "shaggy_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-58,
+				-120
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shaggy_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "shaggy_idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shaggy_sadness",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shaggy-sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		48,
+		113,
+		73
+	],
+	"camera_position": [
+		-300,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

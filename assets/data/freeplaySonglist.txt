@@ -1,7 +1,9 @@
-Tutorial:gf:0xFF9271FD
-Driftveil-City:dad:0xFF9271FD
-Sand-Canyon:pico:0xFF941653
-Gartic-Pummel:pico:0xFF941653
-Spookeez-(Jam-Version):spooky-jam:0xFF223344
-Ugh-Minus:tankman:0xFF323232
-Guns-Minus:tankman:0xFF323232
+Tutorial:gf:0xFFA5004D
+Driftveil-City:dad:0xFFAF66CE
+Shiver:spooky:0xFFD57E00
+Sand-Canyon:pico:0xFFB7D855
+Gartic-Pummel:pico:0xFFB7D855
+School-P2:bf:0xFF31B0D1
+Dense:face:0xFFA1A1A1
+The-Lost-Tree:shaggy-sad:0xFF307149
+MINDWIRE:nobody:0xFF000000
