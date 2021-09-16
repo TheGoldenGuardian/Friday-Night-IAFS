@@ -6,4 +6,6 @@ Gartic-Pummel:pico:0xFFB7D855
 School-P2:bf:0xFF31B0D1
 Dense:face:0xFFA1A1A1
 The-Lost-Tree:shaggy-sad:0xFF307149
+Wind-Up:matt-box:0xFFFF8B00
+Tombstone:tombstone:0xFF313131
 MINDWIRE:nobody:0xFF000000

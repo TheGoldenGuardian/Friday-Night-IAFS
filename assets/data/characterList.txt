@@ -8,11 +8,13 @@ bf-opponent
 bf-fly
 bf-flyspectre
 bf-minus
+bf-mii
 gf
 gf-car
 gf-christmas
 gf-pixel
 gf-tankmechs
+gf-mii
 mom
 mom-car
 mom-christmas
@@ -30,3 +32,5 @@ spirit
 kindred
 kindred-colors
 tankmech
+matt
+matt-box
