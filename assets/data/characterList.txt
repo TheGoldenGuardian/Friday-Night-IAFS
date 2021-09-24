@@ -15,6 +15,7 @@ gf-christmas
 gf-pixel
 gf-tankmechs
 gf-mii
+gf-discord
 mom
 mom-car
 mom-christmas
@@ -33,4 +34,9 @@ kindred
 kindred-colors
 tankmech
 matt
+matt-angry
 matt-box
+matt-chill
+hamilton
+jefferson
+cabinet

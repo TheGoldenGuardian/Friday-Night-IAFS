@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Savage", "pico", [148, 22, 83]],
+		["Shoot", "pico", [148, 22, 83]],
+		["Racked", "pico", [148, 22, 83]],
+		["Gunnin", "pico", [148, 22, 83]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "philly",
+
+	"storyName": "GUESS WHO'S BACK?",
+	"weekBefore": "week7",
+	"weekName": "Week 8",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

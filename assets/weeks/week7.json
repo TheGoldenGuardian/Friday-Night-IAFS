@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Ugh", "tankman", [50, 50, 50]],
+		["Guns", "tankman", [50, 50, 50]],
+		["Stress", "tankman", [50, 50, 50]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf-gray",
+		""
+	],
+	"weekBackground": "tankmen",
+
+	"storyName": "RESTRICTED MILITARY ZONE",
+	"weekBefore": "week6",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

@@ -65,6 +65,17 @@
 			"anim": "hey",
 			"indices": [],
 			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				-30,
+				-16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "boyfriend dodge"
 		}
 	],
 	"no_antialiasing": false,

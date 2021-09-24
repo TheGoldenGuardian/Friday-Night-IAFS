@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Rematch", "kindred", [34, 51, 68]],
+		["Reality", "kindred", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "",
+	"weekBefore": "week8",
+	"weekName": "Week 9",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}

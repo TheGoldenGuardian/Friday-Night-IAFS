@@ -7069,13 +7069,12 @@
         ,"isCheer" : null
         ,"cutsceneType" : "none"
         ,"isSpooky" : false
-        ,"song" : "Guns-Minus"
+        ,"song" : "Guns Minus"
         ,"speed" : 2.5
         ,"isMoody" : false
         ,"forceJudgements" : false
         ,"preferredNoteAmount" : 4
         ,"uiType" : "normal"
-        ,"stage" : "tank"
         ,"needsVoices" : false
         ,"bpm" : 184
 		,"player3": "gf-tankmechs"

@@ -57,10 +57,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/matt_box",
+	"image": "characters/matt/matt_box",
 	"position": [
 		0,
-		350
+		330
 	],
 	"healthicon": "matt-box",
 	"flip_x": false,

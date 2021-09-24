@@ -1,11 +1,70 @@
-Tutorial:gf:0xFFA5004D
-Driftveil-City:dad:0xFFAF66CE
+ <Singles>:nobody:0xFFFFFFFF
+Driftveil City:dad:0xFFAF66CE
 Shiver:spooky:0xFFD57E00
-Sand-Canyon:pico:0xFFB7D855
-Gartic-Pummel:pico:0xFFB7D855
+Sand Canyon:pico:0xFFB7D855
+Gartic Pummel:pico:0xFFB7D855
 School-P2:bf:0xFF31B0D1
-Dense:face:0xFFA1A1A1
-The-Lost-Tree:shaggy-sad:0xFF307149
-Wind-Up:matt-box:0xFFFF8B00
+The Lost Tree:shaggy-sad:0xFF307149
 Tombstone:tombstone:0xFF313131
 MINDWIRE:nobody:0xFF000000
+ <WiiFunkin' VS Matt>:nobody:0xFFFFFFFF
+Light It Up:matt:0xFFFF8B00
+Ruckus:matt:0xFFFF8B00
+Target Practice:matt:0xFFFF8B00
+Sporting:matt:0xFFFF8B00
+Boxing Match:matt:0xFFFF8B00
+Fisticuffs:matt-box:0xFFFF8B00
+Wind-Up:matt-box:0xFFFF8B00
+Deathmatch:matt:0xFFFF8B00
+King Hit:matt:0xFFFF8B00
+TKO:matt:0xFFFF8B00
+Knockout:matt:0xFFFF8B00
+Punch:matt:0xFFFF8B00
+Rewind-Up:matt-box:0xFFFF8B00
+ <Week 1>:nobody:0xFFFFFFFF
+Tutorial:gf:0xFFA5004D
+Bopeebo:dad:0xFFAF66CE
+Fresh:dad:0xFFAF66CE
+Dad Battle:dad:0xFFAF66CE
+Refresh:dad:0xFFAF66CE
+ <Week 2>:nobody:0xFFFFFFFF
+Spookeez:spooky:0xFFD57E00
+South:spooky:0xFFD57E00
+Tremble:spooky:0xFFD57E00
+Vibe:spooky:0xFFD57E00
+ <Week 3>:nobody:0xFFFFFFFF
+Pico:pico:0xFFB7D855
+Philly Nice:pico:0xFFB7D855
+Blammed:pico:0xFFB7D855
+School:pico:0xFFB7D855
+ <Week 4>:nobody:0xFFFFFFFF
+Satin-Panties:mom:0xFFD8558E
+High:mom:0xFFD8558E
+Milf:mom:0xFFD8558E
+ <Week 5>:nobody:0xFFFFFFFF
+Cocoa:parents:0xFFC45EAE
+Eggnog:parents:0xFFC45EAE
+Holiday:mom:0xFFD8558E
+ <Week 6>:nobody:0xFFFFFFFF
+Senpai:senpai-pixel:0xFFFFAA6F
+Roses:senpai-angry-pixel:0xFFFFAA6F
+Thorns:spirit-pixel:0xFFFF3C6E
+ <Week 7>:nobody:0xFFFFFFFF
+Ugh:tankman:0xFF323232
+Guns:tankman:0xFF323232
+Stress:tankman:0xFF323232
+ <Week 7->:nobody:0xFFFFFFFF
+Ugh Minus:tankman:0xFF323232
+Guns Minus:tankman:0xFF323232
+ <Week 8>:nobody:0xFFFFFFFF
+Savage:pico:0xFFB7D855
+Shoot:pico:0xFFB7D855
+Racked:pico:0xFFB7D855
+Gunnin:pico:0xFFB7D855
+ <Week 9>:nobody:0xFFFFFFFF
+Rematch:kindred:0xFF6E569D
+Reality:kindred:0xFF6E569D
+ <Ham Ham Ham Ham Ham>:nobody:0xFFFFFFFF
+Cabinet Battle I:jefferson:0xFF9271FD
+Cabinet Battle II:hamilton:0xFF330000
+Cabinet Battle II Both:hamilson:0xFF62387E

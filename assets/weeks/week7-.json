@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Ugh Minus", "tankman", [50, 50, 50]],
+		["Guns Minus", "tankman", [50, 50, 50]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "tankmech",
+
+	"storyName": "restricted military zone",
+	"weekBefore": "week7",
+	"weekName": "Week 7-",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": true
+}
