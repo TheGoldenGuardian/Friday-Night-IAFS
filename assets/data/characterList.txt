@@ -9,13 +9,16 @@ bf-fly
 bf-flyspectre
 bf-minus
 bf-mii
+bf-rednblack
+bf-black
+bf-neo
+bf-b3
 gf
 gf-car
 gf-christmas
 gf-pixel
 gf-tankmechs
 gf-mii
-gf-discord
 mom
 mom-car
 mom-christmas
@@ -40,3 +43,5 @@ matt-chill
 hamilton
 jefferson
 cabinet
+salty-pixel
+glitch

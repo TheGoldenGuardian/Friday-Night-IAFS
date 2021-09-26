@@ -68,3 +68,4 @@ Reality:kindred:0xFF6E569D
 Cabinet Battle I:jefferson:0xFF9271FD
 Cabinet Battle II:hamilton:0xFF330000
 Cabinet Battle II Both:hamilson:0xFF62387E
+Overclocked:glitch-pixel:0xFF4CFF00
