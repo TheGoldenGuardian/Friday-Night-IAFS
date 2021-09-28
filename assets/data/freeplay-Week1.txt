@@ -1,0 +1,6 @@
+ <Week 1>:nobody:0xFFFFFFFF
+Tutorial:gf:0xFFA5004D
+Bopeebo:dad:0xFFAF66CE
+Fresh:dad:0xFFAF66CE
+Dad Battle:dad:0xFFAF66CE
+Refresh:dad:0xFFAF66CE

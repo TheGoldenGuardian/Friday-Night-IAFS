@@ -1,0 +1,5 @@
+ <Week 2>:nobody:0xFFFFFFFF
+Spookeez:spooky:0xFFD57E00
+South:spooky:0xFFD57E00
+Tremble:spooky:0xFFD57E00
+Vibe:spooky:0xFFD57E00

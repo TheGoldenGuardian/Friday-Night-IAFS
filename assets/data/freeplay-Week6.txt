@@ -1,0 +1,4 @@
+ <Week 6>:nobody:0xFFFFFFFF
+Senpai:senpai-pixel:0xFFFFAA6F
+Roses:senpai-angry-pixel:0xFFFFAA6F
+Thorns:spirit-pixel:0xFFFF3C6E

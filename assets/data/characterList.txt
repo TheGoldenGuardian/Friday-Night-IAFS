@@ -40,6 +40,9 @@ matt
 matt-angry
 matt-box
 matt-chill
+matt-blue
+matt-player
+shaggy
 hamilton
 jefferson
 cabinet

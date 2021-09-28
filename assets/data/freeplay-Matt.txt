@@ -1,0 +1,18 @@
+ <WiiFunkin' VS Matt>:nobody:0xFFFFFFFF
+Light It Up:matt:0xFFFF8B00
+Ruckus:matt:0xFFFF8B00
+Target Practice:matt:0xFFFF8B00
+Sporting:matt:0xFFFF8B00
+Boxing Match:matt:0xFFFF8B00
+Fisticuffs:matt-box:0xFFFF8B00
+Wind-Up:matt-box:0xFFFF8B00
+Deathmatch:matt:0xFFFF8B00
+King Hit:matt:0xFFFF8B00
+TKO:matt:0xFFFF8B00
+Knockout:matt:0xFFFF8B00
+Punch:matt:0xFFFF8B00
+Rewind-Up:matt-box:0xFFFF8B00
+Power Link:shaggy:0xFF33724A
+Revenge:matt:0xFFFF8B00
+Final Destination:shatt:0xFF957E26
+Power Link LoFi:shaggy:0xFF33724A

@@ -1,0 +1,5 @@
+ <Week 8>:nobody:0xFFFFFFFF
+Savage:pico:0xFFB7D855
+Shoot:pico:0xFFB7D855
+Racked:pico:0xFFB7D855
+Gunnin:pico:0xFFB7D855
