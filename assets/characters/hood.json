@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-165
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hood Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-35,
+				-173
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hood Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-100,
+				70
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hood Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-80,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hood Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-86,
+				60
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "hood idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hood",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hood",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		87,
+		155
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hood Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-173
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hood Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				70
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hood Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-165
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hood Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-86,
+				60
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "hood idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "hood Sing Note MISSRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				-173
+			],
+			"loop": false,
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "hood Sing Note MISSDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				70
+			],
+			"loop": false,
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "hood Sing Note MISSUP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-165
+			],
+			"loop": false,
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "hood Sing Note MISSLEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hood",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hood",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		87,
+		155
+	],
+	"camera_position": [
+		120,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -48,3 +48,8 @@ jefferson
 cabinet
 salty-pixel
 glitch
+hood
+hood-player
+arch
+arch-player
+bbpanzu
