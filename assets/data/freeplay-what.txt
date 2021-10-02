@@ -1,3 +1,18 @@
-Alpha:hood:0xFF5E579B
-Arch:arch:0xFF222222
-Tankless:tankless:0xFF0200FE
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ :nobody:0xFF000000
+ 

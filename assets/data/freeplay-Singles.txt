@@ -11,4 +11,7 @@ MINDWIRE:nobody:0xFF000000
 Cabinet Battle I:jefferson:0xFF9271FD
 Cabinet Battle II:hamilton:0xFF330000
 Cabinet Battle II Both:hamilson:0xFF62387E
-Freedom Dive:nobody:0xFF000000
+Alpha:hood:0xFF5E579B
+Arch:arch:0xFF222222
+Tankless:tankless:0xFF0200FE
+Munitions:max:0xFFFF873C

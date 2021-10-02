@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-132
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Hank Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				-155
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Hank right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-149
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Hank Left Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-36,
+				-131
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Hank Up note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				-199
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Hank Down Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hank_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		44,
+		40,
+		66
+	],
+	"camera_position": [
+		259,
+		163
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

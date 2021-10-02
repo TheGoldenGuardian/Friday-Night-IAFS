@@ -4110,7 +4110,6 @@
         ,"isHey" : false
         ,"cutsceneType" : "none"
         ,"song" : "Kill The Clown"
-		,"arrowSkin": "MADNESSNOTE_assets"
         ,"needsVoices" : true
         ,"sections" : 0
         ,"validScore" : true

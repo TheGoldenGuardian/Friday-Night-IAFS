@@ -61,3 +61,8 @@ tankman-player
 tankman-player-rgb
 hank
 hank-classic
+hank-player
+hank-classic-player
+fs-ruv
+skype
+shirou
