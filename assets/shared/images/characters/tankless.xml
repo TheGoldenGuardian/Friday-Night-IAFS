@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankless.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TANKMAN UGH0000" x="0" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0001" x="0" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0002" x="447" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0003" x="447" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0004" x="894" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0005" x="894" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0006" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0007" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0008" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0009" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0010" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0011" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0012" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0013" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0014" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="TANKMAN UGH0015" x="1341" y="0" width="447" height="565"/>
+	<SubTexture name="Tankman DOWN note instance0000" x="0" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0001" x="0" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0002" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0003" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0004" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0005" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0006" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0007" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0008" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman DOWN note instance0009" x="584" y="565" width="584" height="469"/>
+	<SubTexture name="Tankman Idle Dance0000" x="1168" y="565" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0001" x="1168" y="565" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0002" x="0" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0003" x="0" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0004" x="498" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0005" x="498" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0006" x="996" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0007" x="996" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0008" x="1494" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0009" x="1494" y="1138" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0010" x="0" y="1711" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0011" x="0" y="1711" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0012" x="0" y="1711" width="498" height="573"/>
+	<SubTexture name="Tankman Idle Dance0013" x="0" y="1711" width="498" height="573"/>
+	<SubTexture name="Tankman Note Left instance0000" x="498" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Note Left instance0001" x="498" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Note Left instance0002" x="1040" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Note Left instance0003" x="1040" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Note Left instance0004" x="1040" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Note Left instance0005" x="1040" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Note Left instance0006" x="1040" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Note Left instance0007" x="1040" y="1711" width="542" height="540"/>
+	<SubTexture name="Tankman Right Note instance0000" x="0" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0001" x="483" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0002" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0003" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0004" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0005" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0006" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0007" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0008" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman Right Note instance0009" x="966" y="2284" width="483" height="561"/>
+	<SubTexture name="Tankman UP note instance0000" x="1449" y="2284" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0001" x="1449" y="2284" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0002" x="0" y="2903" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0003" x="0" y="2903" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0004" x="0" y="2903" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0005" x="0" y="2903" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0006" x="0" y="2903" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0007" x="0" y="2903" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0008" x="0" y="2903" width="580" height="619"/>
+	<SubTexture name="Tankman UP note instance0009" x="0" y="2903" width="580" height="619"/>
+</TextureAtlas>

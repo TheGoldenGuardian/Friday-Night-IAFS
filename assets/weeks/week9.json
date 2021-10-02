@@ -1,7 +1,8 @@
 {
 	"songs": [
-		["Rematch", "kindred", [34, 51, 68]],
-		["Reality", "kindred", [34, 51, 68]]
+		["Revelation", "hank-classic", [34, 51, 68]],
+		["Mercenary", "hank", [34, 51, 68]],
+		["Kill The Clown", "hank", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
@@ -9,11 +10,11 @@
 		"",
 		""
 	],
-	"weekBackground": "halloween",
+	"weekBackground": "nevada",
 
-	"storyName": "",
+	"storyName": "Hank J. Wimbleton",
 	"weekBefore": "week8",
-	"weekName": "Week 9",
+	"weekName": "Week 10",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,

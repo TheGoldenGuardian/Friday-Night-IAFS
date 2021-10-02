@@ -98,6 +98,39 @@
 			"fps": 24,
 			"name": "arch",
 			"indices": [5]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "arch",
+			"indices": [5]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "arch",
+			"indices": [5]
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "arch",
+			"indices": [0]
 		}
 	],
 	"no_antialiasing": false,

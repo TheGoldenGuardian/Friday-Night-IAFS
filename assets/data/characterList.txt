@@ -13,6 +13,8 @@ bf-rednblack
 bf-black
 bf-neo
 bf-b3
+bf-grunt
+bf-hank
 gf
 gf-car
 gf-christmas
@@ -50,6 +52,12 @@ salty-pixel
 glitch
 hood
 hood-player
+hood-player-unhood
 arch
 arch-player
 bbpanzu
+tankless
+tankman-player
+tankman-player-rgb
+hank
+hank-classic

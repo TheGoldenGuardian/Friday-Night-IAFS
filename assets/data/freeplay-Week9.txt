@@ -1,3 +1,4 @@
  <Week 9>:nobody:0xFFFFFFFF
-Rematch:kindred:0xFF6E569D
-Reality:kindred:0xFF6E569D
+Revelation:hank-classic:0xFF702424
+Mercenary:hank:0xFF2C2842
+Kill The Clown:hank:0xFF2C2842
